@@ -160,7 +160,7 @@ fbg_bistable_interrogator/
 ### 1. Clone Repository & Create Virtual Environment
 
 ```bash
-git clone https://github.com/your-org/fbg-bistable-interrogator.git
+git clone https://github.com/SarthakJain10/btp-research-project
 cd fbg-bistable-interrogator
 
 python3 -m venv venv
