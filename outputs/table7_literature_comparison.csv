@@ -1,0 +1,5 @@
+Architecture,Sensing Element,Nonlinear Cavity,Status,Resolution (pm),Required Optical Power
+OSA Swept Monochromator,FBG,No,Experimental,10.0,< 1 mW
+Matched Edge Filter,FBG,No,Experimental,0.5,< 1 mW
+Tunable Laser Centroid,FBG,No,Commercial,1.0,~ 1 mW
+Bistable Kerr Cavity (This Work),FBG,Yes (Kerr Ring),Numerical Twin,0.08,~ 3.5 W

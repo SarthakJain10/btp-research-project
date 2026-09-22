@@ -1,0 +1,6 @@
+Noise Mechanism,Mathematical Model,Typical Magnitude
+Laser Relative Intensity Noise (RIN),RIN = -140 dB/Hz,0.01% Power StdDev
+Laser Linewidth Frequency Noise,Delta_nu = 100 kHz,0.08 pm Wavelength Jitter
+Photodetector Shot Noise,2 * q * I_ph * B,2.1 pA/sqrt(Hz)
+TIA Thermal Noise,(4 * k_B * T / R_f) * B,1.2 pA/sqrt(Hz)
+ADC Quantization Noise,LSB / sqrt(12),0.15 mV

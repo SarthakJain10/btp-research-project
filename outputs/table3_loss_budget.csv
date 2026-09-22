@@ -1,0 +1,8 @@
+Component,Loss (dB),Linear Power Transmittance Factor
+Isolator,0.5,0.891
+Circulator (2 Pass),1.4,0.724
+Fiber Connectors (4x),0.8,0.832
+Coupler Insertion Loss,0.3,0.933
+Fiber Attenuation (100m),0.02,0.995
+Detector Coupling,0.5,0.891
+Total Optical Link Loss,3.52,0.4446312674691087

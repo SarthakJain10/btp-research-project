@@ -1,0 +1,3 @@
+Interrogation Method,Mean Error (pm),Precision / StdDev (pm),RMSE (pm),Min Detectable Shift (pm),Missed Switch Prob. (%)
+Conventional Centroid Tracking,0.02,1.25,1.25,3.75,N/A
+Nonlinear Bistable Switching (Proposed),0.01,0.08,0.08,0.24,0.2%

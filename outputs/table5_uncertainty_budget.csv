@@ -1,0 +1,6 @@
+Uncertainty Source,Standard Uncertainty u(x),Sensitivity Coeff c_i,Variance Contribution (pm^2),Percent Contribution
+Laser Drift,0.50 pm,1.0,0.25,19.99
+Interrogator Thermal Drift,0.10 K,10.0,1.0,79.98
+Photodetector Noise,0.12 mV,0.05 pm/mV,3.6e-05,0.003
+Quantization Error,0.15 mV,0.05 pm/mV,5.6e-05,0.004
+Curve-Fit Discretization,0.01 pm,1.0,0.0001,0.008

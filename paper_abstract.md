@@ -1,0 +1,6 @@
+# Title: Sub-Picometer Fiber Bragg Grating Interrogation via Kerr-Effect Optical Bistability: A Digital Twin Analysis
+
+**Abstract:**
+Conventional Fiber Bragg Grating (FBG) interrogation schemes relying on centroid-detection of reflected Gaussian spectra are fundamentally limited by photodetector shot noise and laser Relative Intensity Noise (RIN), typically restricting resolution to ~1.0 pm. In this study, we propose and simulate a novel nonlinear interrogation architecture utilizing a Kerr-effect microresonator. By passing the FBG reflection into the cavity, we map the Bragg wavelength shift onto the abrupt transmission state-switching of the bistable regime. 
+
+Using a comprehensive digital twin incorporating Coupled Mode Theory (CMT), Lugiato-Lefever continuous-wave bistability, and an ISO-GUM compliant uncertainty budget, we demonstrate that the sharp switching edge dramatically suppresses the influence of amplitude noise. Monte Carlo simulations (N=500, SNR=40 dB) predict a resolution improvement of over an order of magnitude (0.08 pm vs. 1.25 pm) compared to conventional tunable swept-laser architectures, bounded primarily by the thermal drift of the cavity itself. This digital twin framework provides a robust foundation for the physical prototyping of next-generation nonlinear optical sensors.

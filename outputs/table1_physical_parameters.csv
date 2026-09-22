@@ -1,0 +1,12 @@
+Parameter,Value,Unit,Source
+Nominal Bragg Wavelength (lambda_B),1550.0 nm,nm,Standard Telecom C-band
+Effective Index (n_eff),1.447,-,SMF-28 Specification
+Grating Length (L_fbg),10.0 mm,mm,Standard Commercial FBG
+Index Modulation (delta_n),1.0e-4,-,Calculated from R ~ 90%
+Strain-Optic Coefficient (p_e),0.22,-,Butter & Hocker (1978)
+Thermo-Optic Coefficient (xi),8.6e-6 /K,K^-1,"Agrawal, Nonlin. Fiber Opt."
+Thermal Expansion (alpha_T),0.55e-6 /K,K^-1,Silica Glass Data
+Kerr Nonlinearity (gamma),10.0 /W/km,W^-1 km^-1,Highly Nonlinear Fiber (HNLF)
+Cavity Length (L_cav),5.0 m,m,Fiber Ring Cavity Design
+Coupling Coefficient (kappa),0.10,-,Directional Coupler Spec
+Photodiode Responsivity (R),0.85 A/W,A/W,InGaAs Photodiode Spec

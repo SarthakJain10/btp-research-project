@@ -1,0 +1,6 @@
+Parameter,Optimal Operating Range,Failure Region / Danger Condition
+Input Optical Power,3.2 W - 4.5 W,< 3.0 W (No Bistability) / > 5.0 W (Thermal Damage)
+Laser Detuning (delta_n),-5.0 to -2.0,> -1.73 (Monostable Limit)
+Kerr Nonlinearity (gamma),>= 10 W^-1 km^-1,< 2 W^-1 km^-1 (High Power Req)
+Cavity Round-Trip Loss,< 1.0 dB,> 3.0 dB (Switch Smoothing)
+Interrogator Temp Stability,<= 0.01 K,> 0.1 K (Thermal Drift Overwhelms Signal)

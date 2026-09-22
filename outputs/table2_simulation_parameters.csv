@@ -1,0 +1,8 @@
+Simulation Parameter,Value,Purpose
+Wavelength Resolution Step,0.01 pm,Fine mesh for bistable edge detection
+Sweep Wavelength Range,1549.5 - 1550.5 nm,Full FBG reflection envelope
+Laser Sweep Rate,10 Hz,Dynamic time-step mapping
+Monte Carlo Trials,500,Statistical convergence for RMSE
+Detector Noise Bandwidth,50 MHz,Shot/Thermal noise calculation
+ADC Resolution,14 bits,Digitization quantization model
+Random Seed,42,Reproducibility
